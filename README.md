@@ -4,7 +4,7 @@ Hi, I’m **Vishal Junghare**, a Java Developer with 3.5+ years of experience in
 ---
 
 ## 🌐 Connect with Me  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/vj-vishal-junghare)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vishal-junghare-vj)
 
 ---
 
