@@ -1,5 +1,5 @@
 # 💫 About Me  
-Hi, I’m **Vishal Junghare**, a Java Developer with 3 years of experience in building scalable, secure backend systems and microservices using Java, Spring Boot, and AWS. I specialize in designing RESTful APIs, cloud integration, and driving performance optimizations in enterprise applications.
+Hi, I’m **Vishal Junghare**, a Java Developer with 3.5+ years of experience in building scalable, secure backend systems and microservices using Java, Spring Boot, and AWS. I specialize in designing RESTful APIs, cloud integration, and driving performance optimizations in enterprise applications.
 
 ---
 
